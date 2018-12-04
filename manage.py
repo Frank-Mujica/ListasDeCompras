@@ -2,7 +2,6 @@
 #Hola mundo
 #Cambio Prueba
 #Prueba final a trabajar
-#prueba
 import os
 import sys
 
