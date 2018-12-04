@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 #Hola me llamo Felipe Vera
 #Hola mundo
 #Cambio Prueba
 #Prueba final a trabajar
 #prueba
-=======
-#Hola me llamo Felipe Veraa
-#Probando
->>>>>>> 84c04199a65ecdc56ae61a93f311afa5a55faaa5
 import os
 import sys
 
